@@ -62,7 +62,7 @@ modules:
       - install -Dm644 LICENSE /app/share/doc/com.poktweb.poktcode/copyright
     sources:
       - type: archive
-        url: https://github.com/poktweb/poktcode-releases/raw/v0.1.0/dist/PoktCode-0.1.0-linux-x86_64.tar.xz
+        url: https://github.com/poktweb/poktcode-releases/releases/download/v0.1.0/PoktCode-0.1.0-linux-x86_64.tar.xz
         sha256: da4f26179b2eee07fe8dc9f072fbb419336df15415fb4fe8df5028ebebf50857
         dest: linux-unpacked
         strip-components: 1

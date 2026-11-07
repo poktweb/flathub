@@ -12,7 +12,9 @@
 Packaged with `org.electronjs.Electron2.BaseApp` // 25.08.
 
 - [x] Please attach a video showcasing the application on Linux using the Flatpak.
-<!-- Cole aqui o vídeo gravado no Linux com o Flatpak instalado (arrastar no GitHub). -->
+https://github.com/poktweb/poktcode-releases/raw/main/videos/poktcode-0.1.0-linux-flatpak.webm
+
+Video (~54s): Flatpak launch → welcome → Providers catalog → Pokt Agent on Linux.
 
 - [x] The Flatpak ID follows all the rules listed in the [Application ID requirements][appid].
 - [x] I have read and followed all the [Submission requirements][reqs] and the [Submission guide][reqs2] and I agree to them.

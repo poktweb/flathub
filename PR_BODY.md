@@ -1,10 +1,18 @@
 ### Please confirm your submission meets all the criteria
 
 - [x] Please describe the application briefly.
-PoktCode is an AI-powered desktop IDE based on Eclipse Theia (Electron), with Pokt Agent, a Providers catalog for local/remote models, and privacy defaults (telemetry off). Packaged with `org.electronjs.Electron2.BaseApp` // 25.08.
+**PoktCode** is an AI-powered desktop IDE based on Eclipse Theia (Electron). It is a full coding environment with its own branding and welcome flow, plus first-class AI tooling:
+
+- **Providers catalog** — large directory of AI backends with filters for free, connected, API key, OAuth, IDE subscriptions, and local/self-hosted. Connect Ollama/LM Studio, OpenAI-compatible APIs, Anthropic, Google, Azure, Hugging Face, and many others; manage keys/OAuth and choose models for chat, image, and video.
+- **Pokt Agent** — agent chat beside the editor with modes for ask, plan, edit, agent, debug, review, and architecture; project context, skills, and tool use.
+- **MCP & tools** — configure MCP servers in-app; the agent can list and call tools without dumping everything into context. Host tooling works via Flatpak portal/`flatpak-spawn` when needed.
+- **Embedded preview** — isolated browser preview for sites with multimodal screenshots the agent can use.
+- **Privacy-first defaults** — telemetry off out of the box; you control which remote providers are allowed. Free/local options are first-class, not an afterthought.
+
+Packaged with `org.electronjs.Electron2.BaseApp` // 25.08.
 
 - [x] Please attach a video showcasing the application on Linux using the Flatpak.
-<!-- Cole aqui o vídeo gravado no Linux com o Flatpak instalado (arrastar para o comentário do PR no GitHub). -->
+<!-- Cole aqui o vídeo gravado no Linux com o Flatpak instalado (arrastar no GitHub). -->
 
 - [x] The Flatpak ID follows all the rules listed in the [Application ID requirements][appid].
 - [x] I have read and followed all the [Submission requirements][reqs] and the [Submission guide][reqs2] and I agree to them.

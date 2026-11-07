@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=PoktCode
 GenericName=IDE
-Comment=IDE inteligente, extensível e orientada por IA
+Comment=IDE com Provedores de IA, Pokt Agent e privacidade por padrão
 Exec=poktcode %U
 Icon=com.poktweb.poktcode
 Terminal=false
